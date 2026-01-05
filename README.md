@@ -1,61 +1,73 @@
-<h1 align="center">Hi 👋, I'm Alexis Navarro Moreno</h1>
+<h1 align="center">Hola 👋, soy Alexis Navarro Moreno</h1>
 <h3 align="center">
-Analyst & Backend Developer · Java · Spring Boot · Enterprise Applications
+Analista Programador · Backend · Java · Spring
 </h3>
 
 <p align="center">
-Backend-focused software developer from Spain, specialized in Java and the Spring ecosystem,
-with experience in enterprise and public sector environments.
+Analista Programador especializado en desarrollo backend con Java y Spring,
+con experiencia en proyectos del sector público y entornos empresariales.
 </p>
 
 ---
 
-<h3 align="left">👨‍💻 About me</h3>
+<h3 align="left">👨‍💻 Sobre mí</h3>
 
 <p>
-I am an <strong>Analyst and Backend Developer</strong> specialized in
-<strong>Java, Spring Boot, Spring Security, Spring Framework and JPA/Hibernate</strong>,
-with experience in the design, development and integration of
-<strong>REST APIs, microservices and enterprise applications</strong>,
-mainly within <strong>public sector projects</strong>.
+Soy <strong>Analista Programador</strong> con experiencia en
+<strong>Java, Spring Boot, Spring Framework, Spring Security y JPA/Hibernate</strong>,
+orientado al desarrollo y mantenimiento de
+<strong>aplicaciones empresariales, APIs REST y microservicios</strong>
+en proyectos del <strong>sector público</strong>.
 </p>
 
 <p>
-I actively participate in <strong>functional and technical analysis</strong>,
-<strong>solution design</strong>, <strong>documentation</strong>,
-<strong>validation</strong>, <strong>testing</strong> and <strong>evolutionary maintenance</strong>.
-My work approach focuses on understanding business logic,
-applying solid architectural principles and ensuring code quality and maintainability.
+Participo en el <strong>ciclo completo del desarrollo de software</strong>,
+incluyendo <strong>toma de requisitos</strong>,
+<strong>análisis funcional y técnico</strong>,
+<strong>diseño de soluciones</strong>,
+<strong>desarrollo</strong>,
+<strong>pruebas</strong>,
+<strong>documentación</strong> y
+<strong>soporte evolutivo y correctivo</strong>.
 </p>
 
 <p>
-I also have experience collaborating in <strong>full-stack environments</strong>
-using <strong>Angular, React and JavaScript</strong>,
-which allows me to understand the full application lifecycle
-and work efficiently with multidisciplinary teams.
+Mi trabajo se centra principalmente en el <strong>backend</strong>,
+desarrollando soluciones con
+<strong>Spring Boot, Spring Security, Spring Data JPA y Hibernate</strong>,
+así como en la integración de sistemas mediante
+<strong>APIs REST y comunicación entre microservicios</strong>.
 </p>
 
 <p>
-I work with <strong>Oracle SQL, PostgreSQL, MongoDB and SQLite</strong>,
-applying efficient data modeling and query optimization.
-I regularly use <strong>Git, Maven</strong> and <strong>Agile methodologies (Scrum)</strong>,
-adapting easily to structured, collaborative development environments.
+He trabajado también en entornos <strong>full-stack</strong> utilizando
+<strong>Angular, React, JavaScript, JSP, Struts y Bootstrap</strong>,
+lo que me permite comprender el flujo completo de la aplicación
+y colaborar eficazmente con equipos frontend y funcionales.
 </p>
 
 <p>
-I define myself as an <strong>analytical, proactive and quality-oriented professional</strong>,
-with strong communication skills in both technical and functional contexts,
-capable of solving complex issues and adapting quickly to new technologies and requirements.
+Cuento con experiencia en <strong>bases de datos</strong> como
+<strong>Oracle SQL, PostgreSQL, MongoDB y SQLite</strong>,
+realizando consultas complejas, modelado de datos y optimización de rendimiento.
+Trabajo habitualmente con <strong>Git</strong>, <strong>Maven</strong> y
+<strong>metodologías ágiles (Scrum)</strong>.
+</p>
+
+<p>
+Me considero un profesional <strong>analítico, responsable y orientado a la calidad</strong>,
+con buena comunicación con equipos técnicos, funcionales y usuarios finales,
+capaz de resolver incidencias complejas y adaptarme a nuevos requisitos
+y tecnologías.
 </p>
 
 ---
 
-<h3 align="left">🔗 Connect with me</h3>
+<h3 align="left">🔗 Contacto</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexis-navarro-moreno" target="_blank">
 <img align="center"
      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-     alt="LinkedIn Alexis Navarro Moreno"
      height="30"
      width="40" />
 </a>
@@ -63,32 +75,17 @@ capable of solving complex issues and adapting quickly to new technologies and r
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<h3 align="left">🛠️ Tecnologías</h3>
 
 <p align="left">
-<!-- Backend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-<!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/deviconsicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-
-<!-- Frontend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-
-<!-- Tools -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" width="40"/>
 </p>
-
----
