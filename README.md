@@ -92,10 +92,3 @@ capable of solving complex issues and adapting quickly to new technologies and r
 </p>
 
 ---
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexisnavarromoreno&layout=compact"
-     alt="alexisnavarromoreno" />
-</p>
